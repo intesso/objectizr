@@ -27,5 +27,10 @@ obj = objectizr('edit,copy,rename,delete', function(value, i, arr){
 
 ```
 
+## test
+```bash
+npm test
+```
+
 ## license
 MIT
