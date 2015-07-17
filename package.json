@@ -1,6 +1,6 @@
 {
   "name": "objectizr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple function to turn a comma separated String or Array into an Object.",
   "main": "index.js",
   "scripts": {
