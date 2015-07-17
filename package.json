@@ -1,0 +1,28 @@
+{
+  "name": "objectizr",
+  "version": "1.0.0",
+  "description": "Simple function to turn a comma separated String or Array into an Object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesso/objectizr.git"
+  },
+  "keywords": [
+    "to-object",
+    "convert",
+    "object"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intesso/objectizr/issues"
+  },
+  "homepage": "https://github.com/intesso/objectizr",
+  "devDependencies": {
+    "object-equal": "^1.0.0",
+    "tape": "^4.0.0"
+  }
+}
